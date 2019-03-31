@@ -1,3 +1,1 @@
-target/* linguist-vendored=false
-project/* linguist-vendored=false
-src/* linguist-vendored
+*.scala diff=scala
