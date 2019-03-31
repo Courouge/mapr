@@ -1,1 +1,2 @@
-target/* project/* 
+target/* linguist-vendored=false
+project/* linguist-vendored=false
