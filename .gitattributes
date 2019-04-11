@@ -1,3 +1,1 @@
-* linguist-language=scala
-* linguist-vendored=scala
-src/* linguist-vendored=true
+src/* linguist-vendored
