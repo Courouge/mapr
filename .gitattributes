@@ -1,1 +1,1 @@
-*.scala diff=scala
+src/* linguist-vendored=true
