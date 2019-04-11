@@ -1,1 +1,3 @@
+*.rb linguist-language=Scala
+*.rb linguist-vendored=Scala
 src/* linguist-vendored=true
