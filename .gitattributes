@@ -1,1 +1,2 @@
-src/main/scala/com/silca/* linguist-vendored=true
+src/main/scala/com/silca/KafkaSparkDemo.scala linguist-vendored=true
+linguist-language=scala
