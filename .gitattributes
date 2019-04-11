@@ -1,1 +1,2 @@
-src/main/scala/com/silca/KafkaSparkDemo.scala linguist-vendored
+*.scala linguist-vendored
+* linguist-vendored=false
